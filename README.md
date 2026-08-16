@@ -49,6 +49,19 @@
 
 ---
 
+### 🏆 Certifications
+
+<p align="left">
+  <a href="https://www.boot.dev/certificates/fb64a5f9-80f5-42a5-a031-a253870ecfa3" target="_blank">
+    <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/fb64a5f9-80f5-42a5-a031-a253870ecfa3.jpeg?v=1786864722" alt="Boot.dev Learn Docker certificate" width="300" />
+  </a>
+  <a href="https://www.boot.dev/certificates/7c42fdce-195f-48eb-b2e3-41c70354022f" target="_blank">
+    <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/7c42fdce-195f-48eb-b2e3-41c70354022f.jpeg?v=1781436557" alt="Boot.dev Learn Git certificate" width="300" />
+  </a>
+</p>
+
+---
+
 ### 🤝 Connect with Me
 
 <p align="left">
