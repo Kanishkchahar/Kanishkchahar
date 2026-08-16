@@ -31,9 +31,7 @@
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Kanishkchahar&theme=tokyonight&hide_border=true&background=00000000&ring=79c0ff&fire=79c0ff&currStreakLabel=79c0ff" alt="GitHub streak stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kanishkchahar&theme=tokyonight&no-frame=true&column=4&margin-w=8&margin-h=8" alt="GitHub trophies" />
-</p>
+
 
 ---
 
