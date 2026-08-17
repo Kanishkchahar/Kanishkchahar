@@ -18,13 +18,16 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Kanishkchahar&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=false&icon_color=79c0ff&title_color=79c0ff&text_color=c9d1d9&bg_color=00000000" alt="Kanishk's GitHub stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kanishkchahar&layout=compact&theme=tokyonight&hide_border=true&title_color=79c0ff&text_color=c9d1d9&bg_color=00000000" alt="Top languages" />
-</p>
+### 📊 GitHub Streak
 <p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Kanishkchahar&theme=tokyonight&hide_border=true&background=00000000&ring=79c0ff&fire=79c0ff&currStreakLabel=79c0ff" alt="GitHub streak stats" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kanishkchahar/Kanishkchahar/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" width="100%" />
 </p>
 
 ---
