@@ -44,7 +44,7 @@
   <a href="https://www.boot.dev/certificates/7c42fdce-195f-48eb-b2e3-41c70354022f" target="_blank">
     <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/7c42fdce-195f-48eb-b2e3-41c70354022f.jpeg?v=1781436557" alt="Boot.dev Learn Git certificate" width="280" style="border-radius:8px" />
   </a>
-  [![Boot.dev Learn Linux certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/36b2dc57-fda3-4008-b311-e9448ccfc117.jpeg?v=1786989025)](https://www.boot.dev/certificates/36b2dc57-fda3-4008-b311-e9448ccfc117)
+ 
 </p>
 
 ---
