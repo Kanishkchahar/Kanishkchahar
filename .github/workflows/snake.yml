@@ -10,7 +10,18 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@v3
+      - name: Generate snake (attempt 1)
+        id: generate_snake_attempt_1
+        continue-on-error: true
+        uses: Platane/snk@v3
+        with:
+          github_user_name: Kanishkchahar
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - name: Generate snake (attempt 2)
+        if: steps.generate_snake_attempt_1.outcome == 'failure'
+        uses: Platane/snk@v3
         with:
           github_user_name: Kanishkchahar
           outputs: |
