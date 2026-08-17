@@ -3,7 +3,6 @@
 </p>
 
 ### 🌱 About Me
-
 - 🎓 Currently learning **DevOps** — CI/CD pipelines, containers, cloud & automation
 - 💻 Exploring Docker, Kubernetes, Jenkins, and Git/GitHub Actions
 - 🔭 Currently working on: *(add your current project here)*
@@ -13,7 +12,6 @@
 ---
 
 ### 🛠️ Tech Stack
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,linux,git,github,docker,kubernetes,aws,python,bash,nodejs,figma&theme=dark" alt="Tech stack icons" />
 </p>
@@ -21,36 +19,32 @@
 ---
 
 ### 📊 GitHub Stats
-
 <p align="center">
   <img height="165em" src="https://github-readme-stats-bice-iota-93.vercel.app/api?username=Kanishkchahar&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=false&icon_color=79c0ff&title_color=79c0ff&text_color=c9d1d9&bg_color=00000000" alt="Kanishk's GitHub stats" />
   <img height="165em" src="https://github-readme-stats-bice-iota-93.vercel.app/api/top-langs/?username=Kanishkchahar&layout=compact&theme=tokyonight&hide_border=true&title_color=79c0ff&text_color=c9d1d9&bg_color=00000000" alt="Top languages" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Kanishkchahar&theme=tokyonight&hide_border=true&background=00000000&ring=79c0ff&fire=79c0ff&currStreakLabel=79c0ff" alt="GitHub streak stats" />
 </p>
 
-
-
 ---
 
 ### 🏆 Certifications
-
 <p align="left">
   <a href="https://www.boot.dev/certificates/fb64a5f9-80f5-42a5-a031-a253870ecfa3" target="_blank">
     <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/fb64a5f9-80f5-42a5-a031-a253870ecfa3.jpeg?v=1786864722" alt="Boot.dev Learn Docker certificate" width="280" style="border-radius:8px; margin-right:12px" />
   </a>
   <a href="https://www.boot.dev/certificates/7c42fdce-195f-48eb-b2e3-41c70354022f" target="_blank">
-    <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/7c42fdce-195f-48eb-b2e3-41c70354022f.jpeg?v=1781436557" alt="Boot.dev Learn Git certificate" width="280" style="border-radius:8px" />
+    <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/7c42fdce-195f-48eb-b2e3-41c70354022f.jpeg?v=1781436557" alt="Boot.dev Learn Git certificate" width="280" style="border-radius:8px; margin-right:12px" />
   </a>
- 
+  <a href="https://www.boot.dev/certificates/36b2dc57-fda3-4008-b311-e9448ccfc117" target="_blank">
+    <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/36b2dc57-fda3-4008-b311-e9448ccfc117.jpeg?v=1786989025" alt="Boot.dev Learn Linux certificate" width="280" style="border-radius:8px" />
+  </a>
 </p>
 
 ---
 
 ### 🤝 Connect with Me
-
 <p align="left">
   <a href="https://www.linkedin.com/in/kanishk-chahar34" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
