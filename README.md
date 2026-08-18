@@ -5,7 +5,7 @@
 ### 🌱 About Me
 - 🎓 Currently learning **DevOps** — CI/CD pipelines, containers, cloud & automation
 - 💻 Exploring Docker, Kubernetes, Jenkins, and Git/GitHub Actions
-- 🔭 Currently working on: *(add your current project here)*
+- 🔭 Currently working on: *Might be working on something*
 - 📫 Reach me on LinkedIn: [kanishk-chahar34](https://www.linkedin.com/in/kanishk-chahar34)
 - ⚡ Fun fact: Automating small tasks makes my day better!
 
