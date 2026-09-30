@@ -126,27 +126,6 @@
 
 ---
 
-<h3 align="center">Projects</h3>
-
-<p align="center">
-  <a href="https://github.com/Kanishkchahar/dns-analyzer">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Kanishkchahar&repo=dns-analyzer&theme=github_dark&hide_border=true&bg_color=0d1117" alt="DNS Analyzer" width="48%" />
-  </a>&nbsp;
-  <a href="https://github.com/Kanishkchahar/learn-cicd-starter">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Kanishkchahar&repo=learn-cicd-starter&theme=github_dark&hide_border=true&bg_color=0d1117" alt="CI/CD Starter" width="48%" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/Kanishkchahar/whatsapp-in-linux-for-fedora">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Kanishkchahar&repo=whatsapp-in-linux-for-fedora&theme=github_dark&hide_border=true&bg_color=0d1117" alt="WhatsApp Linux" width="48%" />
-  </a>&nbsp;
-  <a href="https://github.com/Kanishkchahar/wireshark-assignment">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Kanishkchahar&repo=wireshark-assignment&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Wireshark Assignment" width="48%" />
-  </a>
-</p>
-
----
-
 <h3 align="center">Certifications</h3>
 
 <p align="center">
