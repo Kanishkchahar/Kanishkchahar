@@ -40,67 +40,67 @@
 <table align="center">
   <tr>
     <td align="center" width="120">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="55" height="55" />
+      <img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" width="52" height="52" />
       <br><strong>Docker</strong>
     </td>
     <td align="center" width="120">
-      <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="55" height="55" />
+      <img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" alt="Kubernetes" width="52" height="52" />
       <br><strong>Kubernetes</strong>
     </td>
     <td align="center" width="120">
-      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="55" height="55" />
+      <img src="https://skillicons.dev/icons?i=aws&theme=dark" alt="AWS" width="52" height="52" />
       <br><strong>AWS</strong>
     </td>
     <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux" width="50" height="50" />
+      <img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux" width="52" height="52" />
       <br><strong>Linux</strong>
     </td>
     <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=bash&theme=dark" alt="Bash" width="50" height="50" />
+      <img src="https://skillicons.dev/icons?i=bash&theme=dark" alt="Bash" width="52" height="52" />
       <br><strong>Bash</strong>
     </td>
   </tr>
   <tr>
     <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=githubactions&theme=dark" alt="GitHub Actions" width="50" height="50" />
+      <img src="https://skillicons.dev/icons?i=githubactions&theme=dark" alt="GitHub Actions" width="52" height="52" />
       <br><strong>Actions</strong>
     </td>
     <td align="center" width="120">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="55" height="55" />
+      <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" width="52" height="52" />
       <br><strong>Python</strong>
     </td>
     <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" width="50" height="50" />
+      <img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" width="52" height="52" />
       <br><strong>Git</strong>
     </td>
     <td align="center" width="120">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="55" height="55" />
+      <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" width="52" height="52" />
       <br><strong>GitHub</strong>
     </td>
     <td align="center" width="120">
-      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="55" height="55" />
+      <img src="https://skillicons.dev/icons?i=nginx&theme=dark" alt="Nginx" width="52" height="52" />
       <br><strong>Nginx</strong>
     </td>
   </tr>
   <tr>
     <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=terraform&theme=dark" alt="Terraform" width="50" height="50" />
+      <img src="https://skillicons.dev/icons?i=terraform&theme=dark" alt="Terraform" width="52" height="52" />
       <br><strong>Terraform</strong>
     </td>
     <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=ansible&theme=dark" alt="Ansible" width="50" height="50" />
+      <img src="https://skillicons.dev/icons?i=ansible&theme=dark" alt="Ansible" width="52" height="52" />
       <br><strong>Ansible</strong>
     </td>
     <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" width="50" height="50" />
+      <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" width="52" height="52" />
       <br><strong>Node.js</strong>
     </td>
     <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=prometheus&theme=dark" alt="Prometheus" width="50" height="50" />
+      <img src="https://skillicons.dev/icons?i=prometheus&theme=dark" alt="Prometheus" width="52" height="52" />
       <br><strong>Prometheus</strong>
     </td>
     <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=grafana&theme=dark" alt="Grafana" width="50" height="50" />
+      <img src="https://skillicons.dev/icons?i=grafana&theme=dark" alt="Grafana" width="52" height="52" />
       <br><strong>Grafana</strong>
     </td>
   </tr>
@@ -130,18 +130,18 @@
 
 <p align="center">
   <a href="https://github.com/Kanishkchahar/dns-analyzer">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Kanishkchahar&repo=dns-analyzer&theme=github_dark&hide_border=true&bg_color=0d1117" width="48%" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Kanishkchahar&repo=dns-analyzer&theme=github_dark&hide_border=true&bg_color=0d1117" alt="DNS Analyzer" width="48%" />
   </a>&nbsp;
   <a href="https://github.com/Kanishkchahar/learn-cicd-starter">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Kanishkchahar&repo=learn-cicd-starter&theme=github_dark&hide_border=true&bg_color=0d1117" width="48%" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Kanishkchahar&repo=learn-cicd-starter&theme=github_dark&hide_border=true&bg_color=0d1117" alt="CI/CD Starter" width="48%" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/Kanishkchahar/whatsapp-in-linux-for-fedora">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Kanishkchahar&repo=whatsapp-in-linux-for-fedora&theme=github_dark&hide_border=true&bg_color=0d1117" width="48%" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Kanishkchahar&repo=whatsapp-in-linux-for-fedora&theme=github_dark&hide_border=true&bg_color=0d1117" alt="WhatsApp Linux" width="48%" />
   </a>&nbsp;
   <a href="https://github.com/Kanishkchahar/wireshark-assignment">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Kanishkchahar&repo=wireshark-assignment&theme=github_dark&hide_border=true&bg_color=0d1117" width="48%" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=Kanishkchahar&repo=wireshark-assignment&theme=github_dark&hide_border=true&bg_color=0d1117" alt="Wireshark Assignment" width="48%" />
   </a>
 </p>
 
@@ -165,19 +165,19 @@
   <tr>
     <td align="center" width="33%">
       <a href="https://www.boot.dev/certificates/fb64a5f9-80f5-42a5-a031-a253870ecfa3" target="_blank">
-        <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/fb64a5f9-80f5-42a5-a031-a253870ecfa3.jpeg?v=1786864722" width="100%" />
+        <img src="assets/certificates/docker.jpeg" alt="Boot.dev Docker Certificate" width="100%" />
       </a>
       <br><sub>Boot.dev · Docker</sub>
     </td>
     <td align="center" width="33%">
       <a href="https://www.boot.dev/certificates/36b2dc57-fda3-4008-b311-e9448ccfc117" target="_blank">
-        <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/36b2dc57-fda3-4008-b311-e9448ccfc117.jpeg?v=1786989025" width="100%" />
+        <img src="assets/certificates/linux.jpeg" alt="Boot.dev Linux Certificate" width="100%" />
       </a>
       <br><sub>Boot.dev · Linux</sub>
     </td>
     <td align="center" width="33%">
       <a href="https://www.boot.dev/certificates/7c42fdce-195f-48eb-b2e3-41c70354022f" target="_blank">
-        <img src="https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/7c42fdce-195f-48eb-b2e3-41c70354022f.jpeg?v=1781436557" width="100%" />
+        <img src="assets/certificates/git.jpeg" alt="Boot.dev Git Certificate" width="100%" />
       </a>
       <br><sub>Boot.dev · Git</sub>
     </td>
@@ -189,16 +189,13 @@
 <h3 align="center">GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Kanishkchahar&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9" width="49%" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Kanishkchahar&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="42%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kanishkchahar&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area_color=58a6ff&area=true&hide_border=true&custom_title=Contribution%20Graph" width="98%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Kanishkchahar&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" width="48%" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Kanishkchahar&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" width="42%" />
 </p>
 
 ---
 
 <p align="center">
-  <sub>Open to collaboration — reach out via <a href="https://www.linkedin.com/in/kanishk-chahar34">LinkedIn</a> or <a href="mailto:kanishkchahar34@gmail.com">email</a>.</sub>
+  <sub>Open to collaboration — reach out via <a href="https://www.linkedin.com/in/kanishk-chahar34" target="_blank">LinkedIn</a> or <a href="mailto:kanishkchahar34@gmail.com">email</a>.</sub>
 </p>
