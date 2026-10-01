@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <defs>
+    <style>
+      @keyframes float {
+        0%, 100% { transform: translateY(0px); }
+        50% { transform: translateY(-4px); }
+      }
+      @keyframes blink {
+        0%, 90%, 100% { transform: scaleY(1); }
+        95% { transform: scaleY(0.1); }
+      }
+      .tux {
+        transform-origin: 50px 50px;
+        animation: float 3s ease-in-out infinite;
+      }
+      .eyes {
+        transform-origin: 50px 32px;
+        animation: blink 4s infinite;
+      }
+    </style>
+  </defs>
+  <g class="tux">
+    <!-- Feet -->
+    <ellipse cx="38" cy="85" rx="14" ry="7" fill="#FFA500"/>
+    <ellipse cx="62" cy="85" rx="14" ry="7" fill="#FFA500"/>
+    <!-- Body -->
+    <ellipse cx="50" cy="55" rx="28" ry="32" fill="#18181B"/>
+    <!-- Flippers -->
+    <ellipse cx="20" cy="58" rx="8" ry="18" transform="rotate(20 20 58)" fill="#18181B"/>
+    <ellipse cx="80" cy="58" rx="8" ry="18" transform="rotate(-20 80 58)" fill="#18181B"/>
+    <!-- White Belly -->
+    <ellipse cx="50" cy="58" rx="20" ry="24" fill="#FFFFFF"/>
+    <!-- Head -->
+    <circle cx="50" cy="34" r="20" fill="#18181B"/>
+    <!-- Eyes -->
+    <g class="eyes">
+      <ellipse cx="43" cy="28" rx="5" ry="7" fill="#FFFFFF"/>
+      <ellipse cx="57" cy="28" rx="5" ry="7" fill="#FFFFFF"/>
+      <circle cx="45" cy="28" r="2.5" fill="#000000"/>
+      <circle cx="55" cy="28" r="2.5" fill="#000000"/>
+    </g>
+    <!-- Beak -->
+    <polygon points="50,33 42,43 58,43" fill="#FFA500"/>
+  </g>
+</svg>

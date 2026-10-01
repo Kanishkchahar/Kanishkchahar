@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <defs>
+    <style>
+      @keyframes spin-cw {
+        0% { transform: rotate(0deg); }
+        100% { transform: rotate(360deg); }
+      }
+      @keyframes pulse-dot {
+        0%, 100% { transform: scale(1); opacity: 1; }
+        50% { transform: scale(1.3); opacity: 0.7; }
+      }
+      .gear {
+        transform-origin: 50px 50px;
+        animation: spin-cw 8s linear infinite;
+      }
+      .center-dot {
+        transform-origin: 50px 50px;
+        animation: pulse-dot 2s ease-in-out infinite;
+      }
+    </style>
+  </defs>
+  <!-- Background Badge -->
+  <rect x="8" y="8" width="84" height="84" rx="20" fill="#2088FF"/>
+  <!-- Actions Pipeline Orbit / Gear -->
+  <g class="gear">
+    <circle cx="50" cy="50" r="26" fill="none" stroke="#FFFFFF" stroke-width="5" stroke-dasharray="16 12" stroke-linecap="round"/>
+    <circle cx="50" cy="24" r="5" fill="#FFFFFF"/>
+    <circle cx="50" cy="76" r="5" fill="#FFFFFF"/>
+    <circle cx="24" cy="50" r="5" fill="#FFFFFF"/>
+    <circle cx="76" cy="50" r="5" fill="#FFFFFF"/>
+  </g>
+  <!-- Play arrow in center -->
+  <polygon class="center-dot" points="46,40 58,50 46,60" fill="#FFFFFF"/>
+</svg>

@@ -40,68 +40,68 @@
 <table align="center">
   <tr>
     <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Docker" width="52" height="52" />
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="55" height="55" />
       <br><strong>Docker</strong>
     </td>
     <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" alt="Kubernetes" width="52" height="52" />
+      <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="55" height="55" />
       <br><strong>Kubernetes</strong>
     </td>
     <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=aws&theme=dark" alt="AWS" width="52" height="52" />
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="55" height="55" />
       <br><strong>AWS</strong>
     </td>
     <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=linux&theme=dark" alt="Linux" width="52" height="52" />
+      <img src="assets/icons/linux.svg" alt="Linux" width="55" height="55" />
       <br><strong>Linux</strong>
     </td>
     <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=bash&theme=dark" alt="Bash" width="52" height="52" />
+      <img src="assets/icons/bash.svg" alt="Bash" width="55" height="55" />
       <br><strong>Bash</strong>
     </td>
   </tr>
   <tr>
     <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=githubactions&theme=dark" alt="GitHub Actions" width="52" height="52" />
+      <img src="assets/icons/githubactions.svg" alt="GitHub Actions" width="55" height="55" />
       <br><strong>Actions</strong>
     </td>
     <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" width="52" height="52" />
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="55" height="55" />
       <br><strong>Python</strong>
     </td>
     <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" width="52" height="52" />
+      <img src="assets/icons/git.svg" alt="Git" width="55" height="55" />
       <br><strong>Git</strong>
     </td>
     <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" width="52" height="52" />
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="55" height="55" />
       <br><strong>GitHub</strong>
     </td>
     <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=nginx&theme=dark" alt="Nginx" width="52" height="52" />
+      <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="55" height="55" />
       <br><strong>Nginx</strong>
     </td>
   </tr>
   <tr>
     <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=terraform&theme=dark" alt="Terraform" width="52" height="52" />
+      <img src="assets/icons/terraform.svg" alt="Terraform" width="55" height="55" />
       <br><strong>Terraform</strong>
     </td>
     <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=ansible&theme=dark" alt="Ansible" width="52" height="52" />
-      <br><strong>Ansible</strong>
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="55" height="55" />
+      <br><strong>JavaScript</strong>
     </td>
     <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" width="52" height="52" />
-      <br><strong>Node.js</strong>
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="55" height="55" />
+      <br><strong>TypeScript</strong>
     </td>
     <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=prometheus&theme=dark" alt="Prometheus" width="52" height="52" />
-      <br><strong>Prometheus</strong>
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="55" height="55" />
+      <br><strong>MySQL</strong>
     </td>
     <td align="center" width="120">
-      <img src="https://skillicons.dev/icons?i=grafana&theme=dark" alt="Grafana" width="52" height="52" />
-      <br><strong>Grafana</strong>
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="55" height="55" />
+      <br><strong>REST APIs</strong>
     </td>
   </tr>
 </table>
