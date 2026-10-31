@@ -165,16 +165,6 @@
 
 ---
 
-<h3 align="center">GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Kanishkchahar&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" width="48%" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Kanishkchahar&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" width="42%" />
-</p>
-
----
-
 <p align="center">
   <sub>Open to collaboration — reach out via <a href="https://www.linkedin.com/in/kanishk-chahar34" target="_blank">LinkedIn</a> or <a href="mailto:kanishkchahar34@gmail.com">email</a>.</sub>
 </p>
