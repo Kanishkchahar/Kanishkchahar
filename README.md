@@ -47,7 +47,7 @@
   <tr>
     <td align="center" width="140" height="100"><picture><source srcset="https://techstack-generator-tsg.vercel.app/aws-icon.svg" type="image/svg+xml"><img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" width="110" height="28"></picture><br><strong>AWS</strong></td>
     <td align="center" width="140" height="100"><img src="assets/icons/terraform.svg" alt="Terraform" width="48" height="48"><br><strong>Terraform</strong></td>
-    <td align="center" width="140" height="100"><img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" alt="Ansible" width="110" height="28"><br><strong>Ansible</strong></td>
+    <td align="center" width="140" height="100"><img src="https://img.shields.io/badge/%20-EE0000?style=flat-square&logo=ansible&logoColor=white" alt="Ansible icon" width="48" height="28"><br><strong>Ansible</strong></td>
     <td align="center" width="140" height="100"><picture><source srcset="https://techstack-generator-tsg.vercel.app/kubernetes-icon.svg" type="image/svg+xml"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" width="110" height="28"></picture><br><strong>Kubernetes</strong></td>
   </tr>
 </table>
