@@ -2,7 +2,7 @@
 <h4 align="center">DevOps · Cloud Infrastructure · CI/CD · Linux Systems</h4>
 
 <p align="center">
-  <img src="assets/profile-banner.gif" alt="DevOps, cloud, and automation" width="100%" />
+  <img src="assets/profile-banner.gif" alt="DevOps, cloud, and automation" width="680" />
 </p>
 
 <p align="center">
@@ -42,32 +42,43 @@
 <h3 align="center">Tech Stack</h3>
 
 <p align="center"><strong>Cloud &amp; Infrastructure</strong></p>
-<p align="center">
-  <picture><source srcset="https://techstack-generator-tsg.vercel.app/aws-icon.svg" type="image/svg+xml"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" height="55"></picture>
-  <img src="assets/icons/terraform.svg" alt="Terraform" width="55" height="55" />
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" height="55" />
-  <picture><source srcset="https://techstack-generator-tsg.vercel.app/kubernetes-icon.svg" type="image/svg+xml"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" height="55"></picture>
-</p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="140" height="100"><picture><source srcset="https://techstack-generator-tsg.vercel.app/aws-icon.svg" type="image/svg+xml"><img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" width="110" height="28"></picture><br><strong>AWS</strong></td>
+    <td align="center" width="140" height="100"><img src="assets/icons/terraform.svg" alt="Terraform" width="48" height="48"><br><strong>Terraform</strong></td>
+    <td align="center" width="140" height="100"><img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" alt="Ansible" width="110" height="28"><br><strong>Ansible</strong></td>
+    <td align="center" width="140" height="100"><picture><source srcset="https://techstack-generator-tsg.vercel.app/kubernetes-icon.svg" type="image/svg+xml"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" width="110" height="28"></picture><br><strong>Kubernetes</strong></td>
+  </tr>
+</table>
 
 <p align="center"><strong>Containers &amp; Delivery</strong></p>
-<p align="center">
-  <picture><source srcset="https://techstack-generator-tsg.vercel.app/docker-icon.svg" type="image/svg+xml"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" height="55"></picture>
-  <img src="assets/icons/githubactions.svg" alt="GitHub Actions" width="55" height="55" />
-  <picture><source srcset="https://techstack-generator-tsg.vercel.app/nginx-icon.svg" type="image/svg+xml"><img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" height="55"></picture>
-</p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="140" height="100"><picture><source srcset="https://techstack-generator-tsg.vercel.app/docker-icon.svg" type="image/svg+xml"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" width="110" height="28"></picture><br><strong>Docker</strong></td>
+    <td align="center" width="140" height="100"><img src="assets/icons/githubactions.svg" alt="GitHub Actions" width="48" height="48"><br><strong>GitHub Actions</strong></td>
+    <td align="center" width="140" height="100"><picture><source srcset="https://techstack-generator-tsg.vercel.app/nginx-icon.svg" type="image/svg+xml"><img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" width="110" height="28"></picture><br><strong>Nginx</strong></td>
+  </tr>
+</table>
 
 <p align="center"><strong>Systems &amp; Development</strong></p>
-<p align="center">
-  <img src="assets/icons/linux.svg" alt="Arch Linux" width="55" height="55" />
-  <img src="assets/icons/bash.svg" alt="Bash" width="55" height="55" />
-  <picture><source srcset="https://techstack-generator-tsg.vercel.app/python-icon.svg" type="image/svg+xml"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="55"></picture>
-  <img src="assets/icons/git.svg" alt="Git" width="55" height="55" />
-  <picture><source srcset="https://techstack-generator-tsg.vercel.app/github-icon.svg" type="image/svg+xml"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="55"></picture>
-  <picture><source srcset="https://techstack-generator-tsg.vercel.app/js-icon.svg" type="image/svg+xml"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="55"></picture>
-  <picture><source srcset="https://techstack-generator-tsg.vercel.app/ts-icon.svg" type="image/svg+xml"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" height="55"></picture>
-  <picture><source srcset="https://techstack-generator-tsg.vercel.app/mysql-icon.svg" type="image/svg+xml"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" height="55"></picture>
-  <picture><source srcset="https://techstack-generator-tsg.vercel.app/restapi-icon.svg" type="image/svg+xml"><img src="https://img.shields.io/badge/REST_APIs-555555?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" height="55"></picture>
-</p>
+
+<table align="center">
+  <tr>
+    <td align="center" width="140" height="100"><img src="assets/icons/linux.svg" alt="Arch Linux" width="48" height="48"><br><strong>Arch Linux</strong></td>
+    <td align="center" width="140" height="100"><img src="assets/icons/bash.svg" alt="Bash" width="48" height="48"><br><strong>Bash</strong></td>
+    <td align="center" width="140" height="100"><picture><source srcset="https://techstack-generator-tsg.vercel.app/python-icon.svg" type="image/svg+xml"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" width="110" height="28"></picture><br><strong>Python</strong></td>
+    <td align="center" width="140" height="100"><img src="assets/icons/git.svg" alt="Git" width="48" height="48"><br><strong>Git</strong></td>
+    <td align="center" width="140" height="100"><picture><source srcset="https://techstack-generator-tsg.vercel.app/github-icon.svg" type="image/svg+xml"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" width="110" height="28"></picture><br><strong>GitHub</strong></td>
+  </tr>
+  <tr>
+    <td align="center" width="140" height="100"><picture><source srcset="https://techstack-generator-tsg.vercel.app/js-icon.svg" type="image/svg+xml"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" width="110" height="28"></picture><br><strong>JavaScript</strong></td>
+    <td align="center" width="140" height="100"><picture><source srcset="https://techstack-generator-tsg.vercel.app/ts-icon.svg" type="image/svg+xml"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" width="110" height="28"></picture><br><strong>TypeScript</strong></td>
+    <td align="center" width="140" height="100"><picture><source srcset="https://techstack-generator-tsg.vercel.app/mysql-icon.svg" type="image/svg+xml"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" width="110" height="28"></picture><br><strong>MySQL</strong></td>
+    <td align="center" width="140" height="100"><picture><source srcset="https://techstack-generator-tsg.vercel.app/restapi-icon.svg" type="image/svg+xml"><img src="https://img.shields.io/badge/REST_APIs-555555?style=flat-square&logo=fastapi&logoColor=white" alt="REST APIs" width="110" height="28"></picture><br><strong>REST APIs</strong></td>
+  </tr>
+</table>
 
 <details>
 <summary><p align="center"><strong>Detailed Breakdown</strong></p></summary>
