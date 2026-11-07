@@ -37,28 +37,29 @@
 
 <h3 align="center">Tech Stack</h3>
 
-<p align="center"><strong>Cloud &amp; Infrastructure</strong><br>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-</p>
-
-<p align="center"><strong>Containers &amp; Delivery</strong><br>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
-</p>
-
-<p align="center"><strong>Systems &amp; Development</strong><br>
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" alt="Arch Linux" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="120"><img src="https://techstack-generator-tsg.vercel.app/docker-icon.svg" alt="Docker" width="55" height="55" /><br><strong>Docker</strong></td>
+    <td align="center" width="120"><img src="https://techstack-generator-tsg.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="55" height="55" /><br><strong>Kubernetes</strong></td>
+    <td align="center" width="120"><img src="https://techstack-generator-tsg.vercel.app/aws-icon.svg" alt="AWS" width="55" height="55" /><br><strong>AWS</strong></td>
+    <td align="center" width="120"><img src="assets/icons/linux.svg" alt="Linux" width="55" height="55" /><br><strong>Arch Linux</strong></td>
+    <td align="center" width="120"><img src="assets/icons/bash.svg" alt="Bash" width="55" height="55" /><br><strong>Bash</strong></td>
+  </tr>
+  <tr>
+    <td align="center" width="120"><img src="assets/icons/githubactions.svg" alt="GitHub Actions" width="55" height="55" /><br><strong>Actions</strong></td>
+    <td align="center" width="120"><img src="https://techstack-generator-tsg.vercel.app/python-icon.svg" alt="Python" width="55" height="55" /><br><strong>Python</strong></td>
+    <td align="center" width="120"><img src="assets/icons/git.svg" alt="Git" width="55" height="55" /><br><strong>Git</strong></td>
+    <td align="center" width="120"><img src="https://techstack-generator-tsg.vercel.app/github-icon.svg" alt="GitHub" width="55" height="55" /><br><strong>GitHub</strong></td>
+    <td align="center" width="120"><img src="https://techstack-generator-tsg.vercel.app/nginx-icon.svg" alt="Nginx" width="55" height="55" /><br><strong>Nginx</strong></td>
+  </tr>
+  <tr>
+    <td align="center" width="120"><img src="assets/icons/terraform.svg" alt="Terraform" width="55" height="55" /><br><strong>Terraform</strong></td>
+    <td align="center" width="120"><img src="https://techstack-generator-tsg.vercel.app/js-icon.svg" alt="JavaScript" width="55" height="55" /><br><strong>JavaScript</strong></td>
+    <td align="center" width="120"><img src="https://techstack-generator-tsg.vercel.app/ts-icon.svg" alt="TypeScript" width="55" height="55" /><br><strong>TypeScript</strong></td>
+    <td align="center" width="120"><img src="https://techstack-generator-tsg.vercel.app/mysql-icon.svg" alt="MySQL" width="55" height="55" /><br><strong>MySQL</strong></td>
+    <td align="center" width="120"><img src="https://techstack-generator-tsg.vercel.app/restapi-icon.svg" alt="REST API" width="55" height="55" /><br><strong>REST APIs</strong></td>
+  </tr>
+</table>
 
 <details>
 <summary><p align="center"><strong>Detailed Breakdown</strong></p></summary>
